@@ -7,6 +7,8 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+  scrollbar-color: var(--scrollbarColor) var(--scrollbarBackground);
+  scrollbar-width: thin;
 }
 
 body,
