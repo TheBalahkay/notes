@@ -9,41 +9,31 @@ tags:
 
 # Table of contents
 - [PREFACE](#preface)
-		- [Primary Claims](#Primary%20claims)
-		- [Secondary Claims](#Secondary%20claims)
 - [Primary Claims](#Primary%20claims)
-	- [Trump set up 7 fraudulent slates of electors for 7 different states that signed him the winner instead of Biden (Kenneth Chesburo to Eastman plot. )](#Trump%20set%20up%207%20fraudulent%20slates%20of%20electors%20for%207%20different%20states%20that%20signed%20him%20the%20winner%20instead%20of%20Biden%20(Kenneth%20Chesburo%20to%20Eastman%20plot.%20))
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-	- [[#Trump knew he had lost the election and that there was no evidence of voter fraud that would have come even close to changing the results of the election. All of his white house counsel re-affirmed this.|Trump knew he had lost the election and that there was no evidence of voter fraud that would have come even close to changing the results of the election. All of his white house counsel re-affirmed this.]]
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-	- [[#Trump threatened the attorney general, Jeffery Rosen with his job to send a memo to the states saying that the DOJ had found widespread fraud, even though he was told repeatedly by the attorney general and other staffers that those claims were false|Trump threatened the attorney general, Jeffery Rosen with his job to send a memo to the states saying that the DOJ had found widespread fraud, even though he was told repeatedly by the attorney general and other staffers that those claims were false]]
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-	- [[#Trump pressured Mike pence publicly and privately to sign in the fraudulent state electors, to give Trump an electoral victory or have it sent to the house to vote under false pretenses|Trump pressured Mike pence publicly and privately to sign in the fraudulent state electors, to give Trump an electoral victory or have it sent to the house to vote under false pretenses]]
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-				- [[#Private pressure|Private pressure]]
-				- [[#Public pressure|Public pressure]]
-				- [[#Pence condemning trumps actions|Pence condemning trumps actions]]
-	- [[#Trump utilized the chaos on Jan 6th riot to pressure state senators into accepting his slate of fraudulent electors|Trump utilized the chaos on Jan 6th riot to pressure state senators into accepting his slate of fraudulent electors]]
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-- [Secondary Claims](#Secondary%20Claims)
-	- [[#Trump has a history of claiming elections are rigged when he dislikes with the outcome.|Trump has a history of claiming elections are rigged when he dislikes with the outcome.]]
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-	- [[#Trump purposely tried to stop the vote because he knew that he had lost|Trump purposely tried to stop the vote because he knew that he had lost]]
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-	- [[#Trump tried to challenge the vote in multiple states using largely BS evidence. Georgia in particular was especially inappropriate|Trump tried to challenge the vote in multiple states using largely BS evidence. Georgia in particular was especially inappropriate]]
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-	- [[#Trump has no defense for this, which is why he had to ask for immunity from the Supreme Court to defend against the Jack smith indictments|Trump has no defense for this, which is why he had to ask for immunity from the Supreme Court to defend against the Jack smith indictments]]
-			- [[#Secondary claims:#Summary|Summary]]
-			- [[#Secondary claims:#Evidence|Evidence]]
-- [Counter to common claims](#Counters%20to%20common%20claims)
+- [Secondary Claims](#Secondary%20claims)
+
+***Primary Claims***
+1. [Trump set up 7 fraudulent slates of electors for 7 different states that signed him the winner instead of Biden (Kenneth Chesburo to Eastman plot. )](#Trump%20set%20up%207%20fraudulent%20slates%20of%20electors%20for%207%20different%20states%20that%20signed%20him%20the%20winner%20instead%20of%20Biden%20(Kenneth%20Chesburo%20to%20Eastman%20plot.%20))
+
+2. [[#Trump knew he had lost the election and that there was no evidence of voter fraud that would have come even close to changing the results of the election. All of his white house counsel re-affirmed this.]]
+
+3. [[#Trump threatened the attorney general, Jeffery Rosen with his job to send a memo to the states saying that the DOJ had found widespread fraud, even though he was told repeatedly by the attorney general and other staffers that those claims were false|Trump threatened the attorney general, Jeffery Rosen with his job to send a memo to the states saying that the DOJ had found widespread fraud, even though he was told repeatedly by the attorney general and other staffers that those claims were false]]
+
+4. [[#Trump pressured Mike pence publicly and privately to sign in the fraudulent state electors, to give Trump an electoral victory or have it sent to the house to vote under false pretenses|Trump pressured Mike pence publicly and privately to sign in the fraudulent state electors, to give Trump an electoral victory or have it sent to the house to vote under false pretenses]]
+
+5.  [[#Trump utilized the chaos on Jan 6th riot to pressure state senators into accepting his slate of fraudulent electors|Trump utilized the chaos on Jan 6th riot to pressure state senators into accepting his slate of fraudulent electors]]
+
+***Secondary Claims***
+1. [[#Trump has a history of claiming elections are rigged when he dislikes with the outcome.|Trump has a history of claiming elections are rigged when he dislikes with the outcome.]]
+
+2. [[#Trump purposely tried to stop the vote because he knew that he had lost|Trump purposely tried to stop the vote because he knew that he had lost]]
+
+3. [[#Trump tried to challenge the vote in multiple states using largely BS evidence. Georgia in particular was especially inappropriate|Trump tried to challenge the vote in multiple states using largely BS evidence. Georgia in particular was especially inappropriate]]
+
+4. [[#Trump has no defense for this, which is why he had to ask for immunity from the Supreme Court to defend against the Jack smith indictments|Trump has no defense for this, which is why he had to ask for immunity from the Supreme Court to defend against the Jack smith indictments]]
+
+***Counters To Common Retorts***
+
 - [J6 committee was totally biased](#J6%20committee%20was%20totally%20biased)
 - [Sources](#Sources)
 
@@ -344,8 +334,8 @@ Trumps lawyers for the Jack Smith indictments were arguing that for the presiden
 - supreme court Immunity opinions: https://www.supremecourt.gov/opinions/23pdf/23-939_e2pg.pdf
 	- page 19 (PDF: 27) on the sup court immunity case connects this together
 _________
-_________
-## Counters to common claims
+
+## Counters to common retorts
 
 ## J6 committee was totally biased
 Nancy Pelosi tried to get GOP representatives on the J6 committee. The GOP put forth 5 picks and 2 of those, Jim Jordan and Jim Banks, got rejected. They were rejected because they were going to be investigated by the hearing and it was a conflict of interest to also have them on the board. Given the seriousness of the investigation and the need for the board members to stay neutral this call makes sense. The GOP could have replaced Jordan and Banks or at least kept on their other three picks. Instead of suggesting new appointees the republicans said fuck it and didn't include anyone. They claim it was because they didn't want to be a part of a sham investigation; However I would think that this would be even more reason to have your picks in there to help combat any would be misinformation. My thought is that they did this to be able to claim that the committee was biased and dismiss any and all claims that came from it. No matter how strong the evidence. A cop out to avoid facing the facts. It's also worth keeping in mind that much of the J6 committee was direct testimony from those in trumps counsel. To have faked all of this while having the hearings recorded and televised is just a unbelievable assertion made with absolutely zero evidence.
