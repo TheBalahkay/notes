@@ -32,6 +32,6 @@ To run execute the main file with `go run`
 ```bash
 go run {pathToMyFile}
 ```
-you can compile the project into an [executable](1708961076-UFWE.md) or
-[install](1708961122-HGVW.md) it to run it from anywhere on your system
+you can compile the project into an [executable](make%20program%20executable.md) or
+[install](install%20an%20executable.md) it to run it from anywhere on your system
 

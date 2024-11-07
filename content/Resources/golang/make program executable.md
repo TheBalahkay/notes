@@ -16,6 +16,6 @@ To specify a different name or location for the executable, use the -o flag
 ```bash
 go build -o build/hello hello
 ```
-To run the file from anywhere you need to [install](1708961122-HGVW.md) it
+To run the file from anywhere you need to [install](install%20an%20executable.md) it
 
 

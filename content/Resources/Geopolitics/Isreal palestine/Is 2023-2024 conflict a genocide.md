@@ -1,18 +1,28 @@
+---
+id: Is 2023-2024 conflict a genocide
+aliases: 
+tags:
+  - todo
+  - military-conflict
+  - isreal
+  - palestine
+---
+written in  jan/feb: 2023 - should revisit
 
-What would help sway my opinion: 
-- the civilian casualty rates being far higher than in other modern conflicts
-- Direct testimony of Netanyahu admitting to the goal of genocide
-- Israel going out of their way to cause as much harm as possible to non combatants
-- A high degree of intentionality to  being displayed to target civilians
+Key questions: 
+- what is the civilian casualty rates compared to other modern conflicts
+- Is there any direct testimony of Netanyahu admitting to the goal of genocide
+- Is Israel going out of their way to cause as much harm as possible to non combatants
+- Is there a high degree of intentionality to  being displayed to target civilians
 
 
 ### What are the civilian casualty rates and how do they compare to other modern conflicts? 
 
-Israel claims 14,000 hamas soldiers killed and 16,000 civillians. This number would indicate a 63% death rate in the conflict. This number falls well within the civilian death rates of other modern conflicts. When you consider the density of the population, which is oft said to be the densest urban population in the world, and hamas’ strategy of warfare the death rate proposed above seems to indicate a more targeted approach than not.  
+Israel claims 14,000 hamas soldiers killed and 16,000 civillians. This number would indicate a 63% death rate in the conflict. This number seems to fall well within the civilian death rates of other modern conflicts. When you consider the density of the population, which is oft said to be the densest urban population in the world, and hamas’ strategy of warfare the death rate proposed above seems to indicate a more targeted approach than not.  
 
 One frustration I have about the numbers is the lack of transparency into how Israel has determined this ratio. We have no way of verifying or disputing it at the moment. The numbers released by the Gaza MOH do not differentiate combatants from non combatants so their data is no help in this regard either. 
 
-One may be able to say that we can at least count out the women and children from the combatants, but that’s likely a mistake. It is highly likely that some number children of 14-17 are engaged in this war as well. Taking these numbers blindly would likely lead to inaccurate perceptions on the death rate. 
+One may be able to say that we can at least count out the women and children from the combatants, but that could be misleading a mistake. It is highly likely, as awful as it is, that some number children of 14-17 are engaged in this war as well. Taking these numbers blindly would likely lead to inaccurate perceptions on the death rate. 
 
 | **Major Military Conflicts** |            |                  |                     |                       |                     |                         |
 | :--------------------------: | :--------: | :--------------: | :-----------------: | :-------------------: | :-----------------: | :---------------------: |
@@ -29,8 +39,9 @@ One may be able to say that we can at least count out the women and children fro
 |            Yemen             | 2002–2019  |      90,072      |       78,003        |           1           |       12,069        |           13%           |
 |          Ukrainian           | 2014–2019  |  13,117–13,496   |    9,750–10,129     |          500          |        3,367        |         25–26%          |
 
-Case against genocide
 
+
+Further Reading to be done:
 
 https://www.nytimes.com/2023/11/10/opinion/israel-gaza-genocide-war.html
 

@@ -33,7 +33,7 @@ I think that I am leaning towards Agnew. This is subject to change if i find any
 ### Ron Skagen 
 Skagen is the sitting president for PUD. His big recent policy was reserving the power output from the local damn to be used only for small buisness and residential buildings. Stopping heavy industrial users of power like crypto and microsoft from pulling from that pool and instead needing to purchase their own power. 
 
-##D Mathew Hepner
+### Mathew Hepner
 Has no overtly stated goals aside from transparency. I don't know his veiws on green energy
 
 ### PUD Summary
