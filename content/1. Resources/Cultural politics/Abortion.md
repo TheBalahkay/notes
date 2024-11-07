@@ -1,0 +1,1 @@
+https://www.msnbc.com/opinion/msnbc-opinion/texas-abortion-law-trump-stance-miscarriage-rcna161130
