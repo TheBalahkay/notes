@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Balahkays Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,8 +29,8 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
+          light: "#eff1fc",
+          lightgray: "#d9d7e6",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
@@ -38,17 +38,21 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
+          scrollbarColor: "#8f8ba5",
+          scrollbarBackground: "#b8b2d03b",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
+          light: "#0f1729",
+          lightgray: "#22273f",
+          gray: "#857eaa",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#c3b4fc",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
+          scrollbarColor: "#7e70c3",
+          scrollbarBackground: "#c3b4fc1a",
         },
       },
     },
