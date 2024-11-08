@@ -1,0 +1,1 @@
+If two people agree on a conclusion but arrived there in radically different manners then they do not agree. The process of arriving at a conclusion is just as, if not more, important as the [[Conclusions|conclusion]] itself.
